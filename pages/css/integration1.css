@@ -1,0 +1,14 @@
+.integration1 .red {
+    background-color: green;
+    color: red;
+}
+
+.integration1 .blue {
+    background-color: red;
+    color: blue;
+}
+
+.integration1 .green {
+    background-color: blue;
+    color: green;
+}
